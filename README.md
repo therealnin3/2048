@@ -22,12 +22,12 @@ The game is playable in the browser at: [https://therealnin3.itch.io/dynamic2048
 
 ## Screenshots
 
-<img src="Screenshots/1.png" alt="Gameplay" style="width: 300px; height: 200px;">
-<img src="Screenshots/playing.gif" alt="Gameplay" style="width: 300px; height: 200px;">
-<img src="Screenshots/3.png" alt="Gameplay" style="width: 300px; height: 200px;">
-<img src="Screenshots/4.png" alt="Gameplay" style="width: 300px; height: 200px;">
-<img src="Screenshots/leaderboard.gif" alt="Gameplay" style="width: 300px; height: 200px;">
-<img src="Screenshots/6.png" alt="Gameplay" style="width: 300px; height: 200px;">
+<img src="Screenshots/1.png" alt="Gameplay" style="width: 1920; height: 1080;">
+<img src="Screenshots/playing.gif" alt="Gameplay"  style="width: 1920; height: 1080;">
+<img src="Screenshots/3.png" alt="Gameplay"  style="width: 1920; height: 1080;">
+<img src="Screenshots/4.png" alt="Gameplay"  style="width: 1920; height: 1080;">
+<img src="Screenshots/leaderboard.gif" alt="Gameplay"  style="width: 1920; height: 1080;">
+<img src="Screenshots/6.png" alt="Gameplay"  style="width: 1920; height: 1080;">
 
 ## What I've learned and will improve in the future
 
