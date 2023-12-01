@@ -23,10 +23,10 @@ The game is playable in the browser at: [https://therealnin3.itch.io/dynamic2048
 ## Screenshots
 
 ![Gameplay](Screenshots/1.png)
-![Gameplay](Screenshots/2.png)
+![Gameplay](Screenshots/playing.gif)
 ![Gameplay](Screenshots/3.png)
 ![Gameplay](Screenshots/4.png)
-![Gameplay](Screenshots/5.png)
+![Gameplay](Screenshots/leaderboard.gif)
 ![Gameplay](Screenshots/6.png)
 
 ## What I've learned and will improve in the future
