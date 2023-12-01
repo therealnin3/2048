@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my second Unity project, a recreation of the popular game 2048. The game involves merging tiles with the same number to reach the elusive 2048 tile.
+This is my second Unity project, a recreation of the popular game 2048. The game involves merging tiles with the same number to reach the 2048 tile.
 
 ## Features
 
@@ -41,5 +41,3 @@ During the development of this project, I have learned several key concepts in U
 - Adding an online leaderboard system to track and display high scores.
 
 In the future, I plan to further improve these aspects and explore more advanced Unity features to enhance the gameplay and overall experience.
-
-I have also added a leaderboard system to track and display high scores.
